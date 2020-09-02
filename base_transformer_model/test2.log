@@ -1,0 +1,251 @@
+2020-08-27 08:59:13,170 - service.py[line:206] - INFO: Epoch 1 Batch 0 Train_Loss 38.5876  eval_loss 38.5679
+2020-08-27 09:01:44,864 - service.py[line:206] - INFO: Epoch 1 Batch 0 Train_Loss 38.5761  eval_loss 38.5679
+2020-08-27 09:12:34,123 - service.py[line:206] - INFO: Epoch 1 Batch 1000 Train_Loss 38.2566  eval_loss 37.8231
+2020-08-27 09:23:28,804 - service.py[line:206] - INFO: Epoch 1 Batch 2000 Train_Loss 37.9544  eval_loss 37.3976
+2020-08-27 09:34:07,793 - service.py[line:206] - INFO: Epoch 1 Batch 3000 Train_Loss 37.7453  eval_loss 37.1927
+2020-08-27 09:44:50,399 - service.py[line:206] - INFO: Epoch 1 Batch 4000 Train_Loss 37.6094  eval_loss 37.1532
+2020-08-27 09:53:17,311 - service.py[line:214] - INFO: Epoch 1 Train_Loss 37.5330 
+2020-08-27 09:54:01,242 - service.py[line:206] - INFO: Epoch 2 Batch 0 Train_Loss 37.1536  eval_loss 37.1254
+2020-08-27 10:04:41,273 - service.py[line:206] - INFO: Epoch 2 Batch 1000 Train_Loss 37.1335  eval_loss 37.0737
+2020-08-27 10:15:22,927 - service.py[line:206] - INFO: Epoch 2 Batch 2000 Train_Loss 37.1078  eval_loss 37.0149
+2020-08-27 10:26:05,001 - service.py[line:206] - INFO: Epoch 2 Batch 3000 Train_Loss 37.0816  eval_loss 36.9212
+2020-08-27 10:36:48,138 - service.py[line:206] - INFO: Epoch 2 Batch 4000 Train_Loss 37.0392  eval_loss 36.7492
+2020-08-27 10:45:10,941 - service.py[line:214] - INFO: Epoch 2 Train_Loss 36.9899 
+2020-08-27 10:45:54,829 - service.py[line:206] - INFO: Epoch 3 Batch 0 Train_Loss 36.8002  eval_loss 36.5960
+2020-08-27 10:56:28,665 - service.py[line:206] - INFO: Epoch 3 Batch 1000 Train_Loss 36.5919  eval_loss 36.4183
+2020-08-27 11:07:04,511 - service.py[line:206] - INFO: Epoch 3 Batch 2000 Train_Loss 36.5067  eval_loss 36.2452
+2020-08-27 11:17:38,220 - service.py[line:206] - INFO: Epoch 3 Batch 3000 Train_Loss 36.4212  eval_loss 36.0886
+2020-08-27 11:28:15,829 - service.py[line:206] - INFO: Epoch 3 Batch 4000 Train_Loss 36.3450  eval_loss 35.9520
+2020-08-27 11:36:42,883 - service.py[line:214] - INFO: Epoch 3 Train_Loss 36.2860 
+2020-08-27 11:37:28,163 - service.py[line:206] - INFO: Epoch 4 Batch 0 Train_Loss 36.0119  eval_loss 35.8589
+2020-08-27 11:48:06,629 - service.py[line:206] - INFO: Epoch 4 Batch 1000 Train_Loss 35.8986  eval_loss 35.7630
+2020-08-27 11:58:55,889 - service.py[line:206] - INFO: Epoch 4 Batch 2000 Train_Loss 35.8493  eval_loss 35.6821
+2020-08-27 12:09:33,404 - service.py[line:206] - INFO: Epoch 4 Batch 3000 Train_Loss 35.8050  eval_loss 35.5998
+2020-08-27 12:20:08,091 - service.py[line:206] - INFO: Epoch 4 Batch 4000 Train_Loss 35.7633  eval_loss 35.5472
+2020-08-27 12:28:29,181 - service.py[line:214] - INFO: Epoch 4 Train_Loss 35.7325 
+2020-08-27 12:29:13,102 - service.py[line:206] - INFO: Epoch 5 Batch 0 Train_Loss 35.5002  eval_loss 35.4999
+2020-08-27 12:39:49,110 - service.py[line:206] - INFO: Epoch 5 Batch 1000 Train_Loss 35.5320  eval_loss 35.4457
+2020-08-27 12:50:22,898 - service.py[line:206] - INFO: Epoch 5 Batch 2000 Train_Loss 35.5075  eval_loss 35.4071
+2020-08-27 13:00:57,989 - service.py[line:206] - INFO: Epoch 5 Batch 3000 Train_Loss 35.4816  eval_loss 35.3671
+2020-08-27 13:11:31,794 - service.py[line:206] - INFO: Epoch 5 Batch 4000 Train_Loss 35.4607  eval_loss 35.3272
+2020-08-27 13:19:54,144 - service.py[line:214] - INFO: Epoch 5 Train_Loss 35.4446 
+2020-08-27 13:20:38,015 - service.py[line:206] - INFO: Epoch 6 Batch 0 Train_Loss 35.2659  eval_loss 35.2966
+2020-08-27 13:31:12,947 - service.py[line:206] - INFO: Epoch 6 Batch 1000 Train_Loss 35.3249  eval_loss 35.2589
+2020-08-27 13:41:48,079 - service.py[line:206] - INFO: Epoch 6 Batch 2000 Train_Loss 35.3097  eval_loss 35.2344
+2020-08-27 13:52:27,310 - service.py[line:206] - INFO: Epoch 6 Batch 3000 Train_Loss 35.2919  eval_loss 35.2028
+2020-08-27 14:03:07,118 - service.py[line:206] - INFO: Epoch 6 Batch 4000 Train_Loss 35.2781  eval_loss 35.1745
+2020-08-27 14:11:36,158 - service.py[line:214] - INFO: Epoch 6 Train_Loss 35.2670 
+2020-08-27 14:12:20,775 - service.py[line:206] - INFO: Epoch 7 Batch 0 Train_Loss 35.1687  eval_loss 35.1478
+2020-08-27 14:23:02,785 - service.py[line:206] - INFO: Epoch 7 Batch 1000 Train_Loss 35.1767  eval_loss 35.1244
+2020-08-27 14:33:45,144 - service.py[line:206] - INFO: Epoch 7 Batch 2000 Train_Loss 35.1691  eval_loss 35.1048
+2020-08-27 14:44:28,408 - service.py[line:206] - INFO: Epoch 7 Batch 3000 Train_Loss 35.1594  eval_loss 35.0868
+2020-08-27 14:55:17,198 - service.py[line:206] - INFO: Epoch 7 Batch 4000 Train_Loss 35.1461  eval_loss 35.0632
+2020-08-27 15:03:48,930 - service.py[line:214] - INFO: Epoch 7 Train_Loss 35.1378 
+2020-08-27 15:04:33,499 - service.py[line:206] - INFO: Epoch 8 Batch 0 Train_Loss 35.0334  eval_loss 35.0506
+2020-08-27 15:15:19,443 - service.py[line:206] - INFO: Epoch 8 Batch 1000 Train_Loss 35.0705  eval_loss 35.0316
+2020-08-27 15:26:02,290 - service.py[line:206] - INFO: Epoch 8 Batch 2000 Train_Loss 35.0620  eval_loss 35.0102
+2020-08-27 15:36:47,273 - service.py[line:206] - INFO: Epoch 8 Batch 3000 Train_Loss 35.0537  eval_loss 34.9921
+2020-08-27 15:47:33,051 - service.py[line:206] - INFO: Epoch 8 Batch 4000 Train_Loss 35.0431  eval_loss 34.9757
+2020-08-27 15:56:04,498 - service.py[line:214] - INFO: Epoch 8 Train_Loss 35.0363 
+2020-08-27 15:56:49,609 - service.py[line:206] - INFO: Epoch 9 Batch 0 Train_Loss 34.8021  eval_loss 34.9682
+2020-08-27 16:07:33,609 - service.py[line:206] - INFO: Epoch 9 Batch 1000 Train_Loss 34.9692  eval_loss 34.9440
+2020-08-27 16:18:15,421 - service.py[line:206] - INFO: Epoch 9 Batch 2000 Train_Loss 34.9686  eval_loss 34.9345
+2020-08-27 16:28:59,674 - service.py[line:206] - INFO: Epoch 9 Batch 3000 Train_Loss 34.9631  eval_loss 34.9174
+2020-08-27 16:39:45,741 - service.py[line:206] - INFO: Epoch 9 Batch 4000 Train_Loss 34.9558  eval_loss 34.9035
+2020-08-27 16:48:15,657 - service.py[line:214] - INFO: Epoch 9 Train_Loss 34.9518 
+2020-08-27 16:49:01,095 - service.py[line:206] - INFO: Epoch 10 Batch 0 Train_Loss 34.9043  eval_loss 34.8926
+2020-08-27 16:59:44,288 - service.py[line:206] - INFO: Epoch 10 Batch 1000 Train_Loss 34.8994  eval_loss 34.8814
+2020-08-27 17:10:24,051 - service.py[line:206] - INFO: Epoch 10 Batch 2000 Train_Loss 34.8937  eval_loss 34.8655
+2020-08-27 17:21:03,682 - service.py[line:206] - INFO: Epoch 10 Batch 3000 Train_Loss 34.8886  eval_loss 34.8556
+2020-08-27 17:31:42,358 - service.py[line:206] - INFO: Epoch 10 Batch 4000 Train_Loss 34.8848  eval_loss 34.8478
+2020-08-27 17:40:07,475 - service.py[line:214] - INFO: Epoch 10 Train_Loss 34.8814 
+2020-08-27 17:40:51,710 - service.py[line:206] - INFO: Epoch 11 Batch 0 Train_Loss 34.8542  eval_loss 34.8322
+2020-08-27 17:51:31,119 - service.py[line:206] - INFO: Epoch 11 Batch 1000 Train_Loss 34.8311  eval_loss 34.8156
+2020-08-27 18:02:10,869 - service.py[line:206] - INFO: Epoch 11 Batch 2000 Train_Loss 34.8314  eval_loss 34.8058
+2020-08-27 18:12:50,076 - service.py[line:206] - INFO: Epoch 11 Batch 3000 Train_Loss 34.8290  eval_loss 34.7955
+2020-08-27 18:23:27,192 - service.py[line:206] - INFO: Epoch 11 Batch 4000 Train_Loss 34.8245  eval_loss 34.7961
+2020-08-27 18:31:22,355 - service.py[line:214] - INFO: Epoch 11 Train_Loss 34.8210 
+2020-08-27 18:32:06,650 - service.py[line:206] - INFO: Epoch 12 Batch 0 Train_Loss 34.7482  eval_loss 34.7875
+2020-08-27 18:42:45,176 - service.py[line:206] - INFO: Epoch 12 Batch 1000 Train_Loss 34.7794  eval_loss 34.7651
+2020-08-27 18:53:23,561 - service.py[line:206] - INFO: Epoch 12 Batch 2000 Train_Loss 34.7733  eval_loss 34.7718
+2020-08-27 19:03:32,370 - service.py[line:206] - INFO: Epoch 12 Batch 3000 Train_Loss 34.7708  eval_loss 34.7502
+2020-08-27 19:14:10,748 - service.py[line:206] - INFO: Epoch 12 Batch 4000 Train_Loss 34.7679  eval_loss 34.7481
+2020-08-27 19:22:37,535 - service.py[line:214] - INFO: Epoch 12 Train_Loss 34.7652 
+2020-08-27 19:23:21,806 - service.py[line:206] - INFO: Epoch 13 Batch 0 Train_Loss 34.6399  eval_loss 34.7389
+2020-08-27 19:34:10,156 - service.py[line:206] - INFO: Epoch 13 Batch 1000 Train_Loss 34.7281  eval_loss 34.7291
+2020-08-27 19:44:50,616 - service.py[line:206] - INFO: Epoch 13 Batch 2000 Train_Loss 34.7243  eval_loss 34.7166
+2020-08-27 19:55:36,239 - service.py[line:206] - INFO: Epoch 13 Batch 3000 Train_Loss 34.7243  eval_loss 34.7112
+2020-08-27 20:06:25,870 - service.py[line:206] - INFO: Epoch 13 Batch 4000 Train_Loss 34.7207  eval_loss 34.7150
+2020-08-27 20:14:42,109 - service.py[line:214] - INFO: Epoch 13 Train_Loss 34.7174 
+2020-08-27 20:15:29,555 - service.py[line:206] - INFO: Epoch 14 Batch 0 Train_Loss 34.5696  eval_loss 34.7065
+2020-08-27 20:26:27,044 - service.py[line:206] - INFO: Epoch 14 Batch 1000 Train_Loss 34.6821  eval_loss 34.6935
+2020-08-27 20:37:33,140 - service.py[line:206] - INFO: Epoch 14 Batch 2000 Train_Loss 34.6750  eval_loss 34.6876
+2020-08-27 20:48:45,389 - service.py[line:206] - INFO: Epoch 14 Batch 3000 Train_Loss 34.6754  eval_loss 34.6865
+2020-08-27 20:59:39,561 - service.py[line:206] - INFO: Epoch 14 Batch 4000 Train_Loss 34.6738  eval_loss 34.6709
+2020-08-27 21:08:16,623 - service.py[line:214] - INFO: Epoch 14 Train_Loss 34.6727 
+2020-08-27 21:09:01,202 - service.py[line:206] - INFO: Epoch 15 Batch 0 Train_Loss 34.3803  eval_loss 34.6620
+2020-08-27 21:19:55,436 - service.py[line:206] - INFO: Epoch 15 Batch 1000 Train_Loss 34.6352  eval_loss 34.6587
+2020-08-27 21:30:53,287 - service.py[line:206] - INFO: Epoch 15 Batch 2000 Train_Loss 34.6381  eval_loss 34.6546
+2020-08-27 21:41:49,302 - service.py[line:206] - INFO: Epoch 15 Batch 3000 Train_Loss 34.6370  eval_loss 34.6438
+2020-08-27 21:52:32,601 - service.py[line:206] - INFO: Epoch 15 Batch 4000 Train_Loss 34.6345  eval_loss 34.6450
+2020-08-27 22:00:36,588 - service.py[line:214] - INFO: Epoch 15 Train_Loss 34.6325 
+2020-08-27 22:01:21,772 - service.py[line:206] - INFO: Epoch 16 Batch 0 Train_Loss 34.6880  eval_loss 34.6427
+2020-08-27 22:12:05,563 - service.py[line:206] - INFO: Epoch 16 Batch 1000 Train_Loss 34.5944  eval_loss 34.6293
+2020-08-27 22:22:40,658 - service.py[line:206] - INFO: Epoch 16 Batch 2000 Train_Loss 34.5986  eval_loss 34.6315
+2020-08-27 22:32:46,567 - service.py[line:206] - INFO: Epoch 16 Batch 3000 Train_Loss 34.5991  eval_loss 34.6192
+2020-08-27 22:43:23,001 - service.py[line:206] - INFO: Epoch 16 Batch 4000 Train_Loss 34.5986  eval_loss 34.6166
+2020-08-27 22:51:46,838 - service.py[line:214] - INFO: Epoch 16 Train_Loss 34.5971 
+2020-08-27 22:52:30,782 - service.py[line:206] - INFO: Epoch 17 Batch 0 Train_Loss 34.4869  eval_loss 34.6103
+2020-08-27 23:03:06,259 - service.py[line:206] - INFO: Epoch 17 Batch 1000 Train_Loss 34.5546  eval_loss 34.6106
+2020-08-27 23:13:12,143 - service.py[line:206] - INFO: Epoch 17 Batch 2000 Train_Loss 34.5588  eval_loss 34.6013
+2020-08-27 23:23:46,665 - service.py[line:206] - INFO: Epoch 17 Batch 3000 Train_Loss 34.5599  eval_loss 34.6003
+2020-08-27 23:34:22,902 - service.py[line:206] - INFO: Epoch 17 Batch 4000 Train_Loss 34.5613  eval_loss 34.5947
+2020-08-27 23:42:45,744 - service.py[line:214] - INFO: Epoch 17 Train_Loss 34.5617 
+2020-08-27 23:43:29,745 - service.py[line:206] - INFO: Epoch 18 Batch 0 Train_Loss 34.6873  eval_loss 34.5916
+2020-08-27 23:54:04,985 - service.py[line:206] - INFO: Epoch 18 Batch 1000 Train_Loss 34.5228  eval_loss 34.5876
+2020-08-28 00:04:41,341 - service.py[line:206] - INFO: Epoch 18 Batch 2000 Train_Loss 34.5233  eval_loss 34.5824
+2020-08-28 00:15:16,334 - service.py[line:206] - INFO: Epoch 18 Batch 3000 Train_Loss 34.5257  eval_loss 34.5760
+2020-08-28 00:25:51,319 - service.py[line:206] - INFO: Epoch 18 Batch 4000 Train_Loss 34.5278  eval_loss 34.5815
+2020-08-28 00:33:44,324 - service.py[line:214] - INFO: Epoch 18 Train_Loss 34.5282 
+2020-08-28 00:34:28,330 - service.py[line:206] - INFO: Epoch 19 Batch 0 Train_Loss 34.6142  eval_loss 34.5807
+2020-08-28 00:44:33,308 - service.py[line:206] - INFO: Epoch 19 Batch 1000 Train_Loss 34.4814  eval_loss 34.5711
+2020-08-28 00:55:09,275 - service.py[line:206] - INFO: Epoch 19 Batch 2000 Train_Loss 34.4901  eval_loss 34.5610
+2020-08-28 01:05:45,052 - service.py[line:206] - INFO: Epoch 19 Batch 3000 Train_Loss 34.4949  eval_loss 34.5645
+2020-08-28 01:15:50,719 - service.py[line:206] - INFO: Epoch 19 Batch 4000 Train_Loss 34.4976  eval_loss 34.5578
+2020-08-28 01:24:14,006 - service.py[line:214] - INFO: Epoch 19 Train_Loss 34.4980 
+2020-08-28 01:24:58,010 - service.py[line:206] - INFO: Epoch 20 Batch 0 Train_Loss 34.2990  eval_loss 34.5575
+2020-08-28 01:35:34,019 - service.py[line:206] - INFO: Epoch 20 Batch 1000 Train_Loss 34.4464  eval_loss 34.5581
+2020-08-28 01:45:38,687 - service.py[line:206] - INFO: Epoch 20 Batch 2000 Train_Loss 34.4610  eval_loss 34.5565
+2020-08-28 01:56:14,628 - service.py[line:206] - INFO: Epoch 20 Batch 3000 Train_Loss 34.4648  eval_loss 34.5450
+2020-08-28 02:06:50,680 - service.py[line:206] - INFO: Epoch 20 Batch 4000 Train_Loss 34.4679  eval_loss 34.5413
+2020-08-28 02:15:13,759 - service.py[line:214] - INFO: Epoch 20 Train_Loss 34.4689 
+2020-08-28 02:15:57,718 - service.py[line:206] - INFO: Epoch 21 Batch 0 Train_Loss 34.3067  eval_loss 34.5383
+2020-08-28 02:26:32,245 - service.py[line:206] - INFO: Epoch 21 Batch 1000 Train_Loss 34.4357  eval_loss 34.5424
+2020-08-28 02:36:38,066 - service.py[line:206] - INFO: Epoch 21 Batch 2000 Train_Loss 34.4371  eval_loss 34.5308
+2020-08-28 02:47:13,014 - service.py[line:206] - INFO: Epoch 21 Batch 3000 Train_Loss 34.4404  eval_loss 34.5344
+2020-08-28 02:57:18,895 - service.py[line:206] - INFO: Epoch 21 Batch 4000 Train_Loss 34.4402  eval_loss 34.5327
+2020-08-28 03:05:11,983 - service.py[line:214] - INFO: Epoch 21 Train_Loss 34.4417 
+2020-08-28 03:05:55,979 - service.py[line:206] - INFO: Epoch 22 Batch 0 Train_Loss 34.3498  eval_loss 34.5319
+2020-08-28 03:16:01,513 - service.py[line:206] - INFO: Epoch 22 Batch 1000 Train_Loss 34.4057  eval_loss 34.5316
+2020-08-28 03:26:06,202 - service.py[line:206] - INFO: Epoch 22 Batch 2000 Train_Loss 34.4109  eval_loss 34.5236
+2020-08-28 03:36:42,134 - service.py[line:206] - INFO: Epoch 22 Batch 3000 Train_Loss 34.4120  eval_loss 34.5271
+2020-08-28 03:46:46,790 - service.py[line:206] - INFO: Epoch 22 Batch 4000 Train_Loss 34.4135  eval_loss 34.5196
+2020-08-28 03:55:10,022 - service.py[line:214] - INFO: Epoch 22 Train_Loss 34.4166 
+2020-08-28 03:55:53,986 - service.py[line:206] - INFO: Epoch 23 Batch 0 Train_Loss 34.5532  eval_loss 34.5157
+2020-08-28 04:06:30,228 - service.py[line:206] - INFO: Epoch 23 Batch 1000 Train_Loss 34.3735  eval_loss 34.5210
+2020-08-28 04:16:34,671 - service.py[line:206] - INFO: Epoch 23 Batch 2000 Train_Loss 34.3828  eval_loss 34.5124
+2020-08-28 04:27:09,177 - service.py[line:206] - INFO: Epoch 23 Batch 3000 Train_Loss 34.3875  eval_loss 34.5099
+2020-08-28 04:37:44,766 - service.py[line:206] - INFO: Epoch 23 Batch 4000 Train_Loss 34.3884  eval_loss 34.5146
+2020-08-28 04:45:38,163 - service.py[line:214] - INFO: Epoch 23 Train_Loss 34.3906 
+2020-08-28 04:46:22,138 - service.py[line:206] - INFO: Epoch 24 Batch 0 Train_Loss 34.3444  eval_loss 34.5048
+2020-08-28 04:56:57,872 - service.py[line:206] - INFO: Epoch 24 Batch 1000 Train_Loss 34.3511  eval_loss 34.5079
+2020-08-28 05:07:02,794 - service.py[line:206] - INFO: Epoch 24 Batch 2000 Train_Loss 34.3601  eval_loss 34.5088
+2020-08-28 05:17:07,263 - service.py[line:206] - INFO: Epoch 24 Batch 3000 Train_Loss 34.3605  eval_loss 34.5093
+2020-08-28 05:27:11,690 - service.py[line:206] - INFO: Epoch 24 Batch 4000 Train_Loss 34.3636  eval_loss 34.5075
+2020-08-28 05:35:03,592 - service.py[line:214] - INFO: Epoch 24 Train_Loss 34.3655 
+2020-08-28 05:35:47,647 - service.py[line:206] - INFO: Epoch 25 Batch 0 Train_Loss 34.1713  eval_loss 34.5077
+2020-08-28 05:45:53,259 - service.py[line:206] - INFO: Epoch 25 Batch 1000 Train_Loss 34.3311  eval_loss 34.5010
+2020-08-28 05:56:30,289 - service.py[line:206] - INFO: Epoch 25 Batch 2000 Train_Loss 34.3308  eval_loss 34.5041
+2020-08-28 06:06:35,104 - service.py[line:206] - INFO: Epoch 25 Batch 3000 Train_Loss 34.3380  eval_loss 34.5048
+2020-08-28 06:16:40,964 - service.py[line:206] - INFO: Epoch 25 Batch 4000 Train_Loss 34.3402  eval_loss 34.4987
+2020-08-28 06:25:03,785 - service.py[line:214] - INFO: Epoch 25 Train_Loss 34.3427 
+2020-08-28 06:25:47,813 - service.py[line:206] - INFO: Epoch 26 Batch 0 Train_Loss 34.3157  eval_loss 34.4963
+2020-08-28 06:36:22,456 - service.py[line:206] - INFO: Epoch 26 Batch 1000 Train_Loss 34.2846  eval_loss 34.5133
+2020-08-28 06:46:27,881 - service.py[line:206] - INFO: Epoch 26 Batch 2000 Train_Loss 34.2989  eval_loss 34.5068
+2020-08-28 06:56:32,833 - service.py[line:206] - INFO: Epoch 26 Batch 3000 Train_Loss 34.3092  eval_loss 34.5009
+2020-08-28 07:06:38,840 - service.py[line:206] - INFO: Epoch 26 Batch 4000 Train_Loss 34.3130  eval_loss 34.4963
+2020-08-28 07:15:02,034 - service.py[line:214] - INFO: Epoch 26 Train_Loss 34.3172 
+2020-08-28 07:15:46,020 - service.py[line:206] - INFO: Epoch 27 Batch 0 Train_Loss 34.0254  eval_loss 34.4904
+2020-08-28 07:26:21,800 - service.py[line:206] - INFO: Epoch 27 Batch 1000 Train_Loss 34.2841  eval_loss 34.4965
+2020-08-28 07:36:27,146 - service.py[line:206] - INFO: Epoch 27 Batch 2000 Train_Loss 34.2855  eval_loss 34.4983
+2020-08-28 07:46:33,425 - service.py[line:206] - INFO: Epoch 27 Batch 3000 Train_Loss 34.2916  eval_loss 34.4958
+2020-08-28 07:56:38,312 - service.py[line:206] - INFO: Epoch 27 Batch 4000 Train_Loss 34.2938  eval_loss 34.4948
+2020-08-28 08:04:31,265 - service.py[line:214] - INFO: Epoch 27 Train_Loss 34.2973 
+2020-08-28 08:05:15,278 - service.py[line:206] - INFO: Epoch 28 Batch 0 Train_Loss 33.9714  eval_loss 34.4905
+2020-08-28 08:15:20,731 - service.py[line:206] - INFO: Epoch 28 Batch 1000 Train_Loss 34.2685  eval_loss 34.4966
+2020-08-28 08:25:26,887 - service.py[line:206] - INFO: Epoch 28 Batch 2000 Train_Loss 34.2667  eval_loss 34.4928
+2020-08-28 08:35:32,244 - service.py[line:206] - INFO: Epoch 28 Batch 3000 Train_Loss 34.2717  eval_loss 34.4877
+2020-08-28 08:46:09,176 - service.py[line:206] - INFO: Epoch 28 Batch 4000 Train_Loss 34.2747  eval_loss 34.4906
+2020-08-28 08:54:13,090 - service.py[line:214] - INFO: Epoch 28 Train_Loss 34.2770 
+2020-08-28 08:54:59,338 - service.py[line:206] - INFO: Epoch 29 Batch 0 Train_Loss 34.1551  eval_loss 34.4872
+2020-08-28 09:05:45,608 - service.py[line:206] - INFO: Epoch 29 Batch 1000 Train_Loss 34.2434  eval_loss 34.4911
+2020-08-28 09:16:15,366 - service.py[line:206] - INFO: Epoch 29 Batch 2000 Train_Loss 34.2412  eval_loss 34.5014
+2020-08-28 09:26:31,149 - service.py[line:206] - INFO: Epoch 29 Batch 3000 Train_Loss 34.2416  eval_loss 34.4897
+2020-08-28 09:36:52,313 - service.py[line:206] - INFO: Epoch 29 Batch 4000 Train_Loss 34.2484  eval_loss 34.4888
+2020-08-28 09:44:54,843 - service.py[line:214] - INFO: Epoch 29 Train_Loss 34.2536 
+2020-08-28 09:45:39,223 - service.py[line:206] - INFO: Epoch 30 Batch 0 Train_Loss 34.0929  eval_loss 34.4892
+2020-08-28 09:56:06,855 - service.py[line:206] - INFO: Epoch 30 Batch 1000 Train_Loss 34.2032  eval_loss 34.5004
+2020-08-28 10:06:25,222 - service.py[line:206] - INFO: Epoch 30 Batch 2000 Train_Loss 34.2174  eval_loss 34.4895
+2020-08-28 10:16:54,648 - service.py[line:206] - INFO: Epoch 30 Batch 3000 Train_Loss 34.2244  eval_loss 34.4880
+2020-08-28 10:27:07,401 - service.py[line:206] - INFO: Epoch 30 Batch 4000 Train_Loss 34.2294  eval_loss 34.4858
+2020-08-28 10:35:34,924 - service.py[line:214] - INFO: Epoch 30 Train_Loss 34.2333 
+2020-08-28 10:36:20,731 - service.py[line:206] - INFO: Epoch 31 Batch 0 Train_Loss 34.1202  eval_loss 34.4951
+2020-08-28 10:46:45,512 - service.py[line:206] - INFO: Epoch 31 Batch 1000 Train_Loss 34.2055  eval_loss 34.4947
+2020-08-28 10:57:06,006 - service.py[line:206] - INFO: Epoch 31 Batch 2000 Train_Loss 34.1991  eval_loss 34.4935
+2020-08-28 11:07:22,143 - service.py[line:206] - INFO: Epoch 31 Batch 3000 Train_Loss 34.2036  eval_loss 34.4926
+2020-08-28 11:17:30,340 - service.py[line:206] - INFO: Epoch 31 Batch 4000 Train_Loss 34.2098  eval_loss 34.4859
+2020-08-28 11:25:24,846 - service.py[line:214] - INFO: Epoch 31 Train_Loss 34.2147 
+2020-08-28 11:26:09,408 - service.py[line:206] - INFO: Epoch 32 Batch 0 Train_Loss 34.4340  eval_loss 34.4863
+2020-08-28 11:36:18,446 - service.py[line:206] - INFO: Epoch 32 Batch 1000 Train_Loss 34.1637  eval_loss 34.5026
+2020-08-28 11:46:26,261 - service.py[line:206] - INFO: Epoch 32 Batch 2000 Train_Loss 34.1838  eval_loss 34.4940
+2020-08-28 11:56:35,374 - service.py[line:206] - INFO: Epoch 32 Batch 3000 Train_Loss 34.1911  eval_loss 34.4911
+2020-08-28 12:06:43,050 - service.py[line:206] - INFO: Epoch 32 Batch 4000 Train_Loss 34.1938  eval_loss 34.4889
+2020-08-28 12:14:38,150 - service.py[line:214] - INFO: Epoch 32 Train_Loss 34.1977 
+2020-08-28 12:15:22,839 - service.py[line:206] - INFO: Epoch 33 Batch 0 Train_Loss 34.2085  eval_loss 34.4852
+2020-08-28 12:26:02,692 - service.py[line:206] - INFO: Epoch 33 Batch 1000 Train_Loss 34.1648  eval_loss 34.4980
+2020-08-28 12:36:11,357 - service.py[line:206] - INFO: Epoch 33 Batch 2000 Train_Loss 34.1669  eval_loss 34.4899
+2020-08-28 12:46:19,596 - service.py[line:206] - INFO: Epoch 33 Batch 3000 Train_Loss 34.1717  eval_loss 34.4865
+2020-08-28 12:56:28,235 - service.py[line:206] - INFO: Epoch 33 Batch 4000 Train_Loss 34.1788  eval_loss 34.4857
+2020-08-28 13:04:24,132 - service.py[line:214] - INFO: Epoch 33 Train_Loss 34.1809 
+2020-08-28 13:05:08,777 - service.py[line:206] - INFO: Epoch 34 Batch 0 Train_Loss 34.2922  eval_loss 34.4958
+2020-08-28 13:15:16,858 - service.py[line:206] - INFO: Epoch 34 Batch 1000 Train_Loss 34.1161  eval_loss 34.5056
+2020-08-28 13:25:25,515 - service.py[line:206] - INFO: Epoch 34 Batch 2000 Train_Loss 34.1374  eval_loss 34.4928
+2020-08-28 13:35:33,236 - service.py[line:206] - INFO: Epoch 34 Batch 3000 Train_Loss 34.1493  eval_loss 34.4896
+2020-08-28 13:45:41,271 - service.py[line:206] - INFO: Epoch 34 Batch 4000 Train_Loss 34.1552  eval_loss 34.4885
+2020-08-28 13:53:35,586 - service.py[line:214] - INFO: Epoch 34 Train_Loss 34.1605 
+2020-08-28 13:54:20,207 - service.py[line:206] - INFO: Epoch 35 Batch 0 Train_Loss 33.9442  eval_loss 34.4908
+2020-08-28 14:04:28,794 - service.py[line:206] - INFO: Epoch 35 Batch 1000 Train_Loss 34.1102  eval_loss 34.5016
+2020-08-28 14:14:36,912 - service.py[line:206] - INFO: Epoch 35 Batch 2000 Train_Loss 34.1259  eval_loss 34.4936
+2020-08-28 14:24:46,306 - service.py[line:206] - INFO: Epoch 35 Batch 3000 Train_Loss 34.1332  eval_loss 34.4983
+2020-08-28 14:34:54,253 - service.py[line:206] - INFO: Epoch 35 Batch 4000 Train_Loss 34.1399  eval_loss 34.4919
+2020-08-28 14:42:49,623 - service.py[line:214] - INFO: Epoch 35 Train_Loss 34.1442 
+2020-08-28 14:43:34,373 - service.py[line:206] - INFO: Epoch 36 Batch 0 Train_Loss 34.2277  eval_loss 34.4967
+2020-08-28 14:53:42,705 - service.py[line:206] - INFO: Epoch 36 Batch 1000 Train_Loss 34.0823  eval_loss 34.5107
+2020-08-28 15:03:51,937 - service.py[line:206] - INFO: Epoch 36 Batch 2000 Train_Loss 34.0953  eval_loss 34.5063
+2020-08-28 15:13:59,951 - service.py[line:206] - INFO: Epoch 36 Batch 3000 Train_Loss 34.1089  eval_loss 34.5008
+2020-08-28 15:24:09,377 - service.py[line:206] - INFO: Epoch 36 Batch 4000 Train_Loss 34.1199  eval_loss 34.4920
+2020-08-28 15:32:04,222 - service.py[line:214] - INFO: Epoch 36 Train_Loss 34.1263 
+2020-08-28 15:32:48,863 - service.py[line:206] - INFO: Epoch 37 Batch 0 Train_Loss 34.0380  eval_loss 34.4983
+2020-08-28 15:42:57,640 - service.py[line:206] - INFO: Epoch 37 Batch 1000 Train_Loss 34.0808  eval_loss 34.5129
+2020-08-28 15:53:05,930 - service.py[line:206] - INFO: Epoch 37 Batch 2000 Train_Loss 34.0928  eval_loss 34.5112
+2020-08-28 16:03:14,653 - service.py[line:206] - INFO: Epoch 37 Batch 3000 Train_Loss 34.0984  eval_loss 34.5121
+2020-08-28 16:13:22,780 - service.py[line:206] - INFO: Epoch 37 Batch 4000 Train_Loss 34.1062  eval_loss 34.5024
+2020-08-28 16:21:17,335 - service.py[line:214] - INFO: Epoch 37 Train_Loss 34.1116 
+2020-08-28 16:22:02,045 - service.py[line:206] - INFO: Epoch 38 Batch 0 Train_Loss 33.9633  eval_loss 34.4951
+2020-08-28 16:32:10,583 - service.py[line:206] - INFO: Epoch 38 Batch 1000 Train_Loss 34.0616  eval_loss 34.5155
+2020-08-28 16:42:19,581 - service.py[line:206] - INFO: Epoch 38 Batch 2000 Train_Loss 34.0783  eval_loss 34.5139
+2020-08-28 16:52:27,690 - service.py[line:206] - INFO: Epoch 38 Batch 3000 Train_Loss 34.0862  eval_loss 34.5003
+2020-08-28 17:02:36,794 - service.py[line:206] - INFO: Epoch 38 Batch 4000 Train_Loss 34.0929  eval_loss 34.5113
+2020-08-28 17:10:31,504 - service.py[line:214] - INFO: Epoch 38 Train_Loss 34.0974 
+2020-08-28 17:11:16,180 - service.py[line:206] - INFO: Epoch 39 Batch 0 Train_Loss 34.3223  eval_loss 34.5088
+2020-08-28 17:21:24,714 - service.py[line:206] - INFO: Epoch 39 Batch 1000 Train_Loss 34.0637  eval_loss 34.5133
+2020-08-28 17:31:33,094 - service.py[line:206] - INFO: Epoch 39 Batch 2000 Train_Loss 34.0666  eval_loss 34.5160
+2020-08-28 17:41:41,310 - service.py[line:206] - INFO: Epoch 39 Batch 3000 Train_Loss 34.0744  eval_loss 34.5100
+2020-08-28 17:51:48,891 - service.py[line:206] - INFO: Epoch 39 Batch 4000 Train_Loss 34.0820  eval_loss 34.5076
+2020-08-28 17:59:43,860 - service.py[line:214] - INFO: Epoch 39 Train_Loss 34.0858 
+2020-08-28 18:00:28,491 - service.py[line:206] - INFO: Epoch 40 Batch 0 Train_Loss 34.1100  eval_loss 34.5132
+2020-08-28 18:10:36,849 - service.py[line:206] - INFO: Epoch 40 Batch 1000 Train_Loss 34.0450  eval_loss 34.5221
+2020-08-28 18:20:46,217 - service.py[line:206] - INFO: Epoch 40 Batch 2000 Train_Loss 34.0499  eval_loss 34.5174
+2020-08-28 18:30:54,588 - service.py[line:206] - INFO: Epoch 40 Batch 3000 Train_Loss 34.0544  eval_loss 34.5207
+2020-08-28 18:41:03,596 - service.py[line:206] - INFO: Epoch 40 Batch 4000 Train_Loss 34.0643  eval_loss 34.5148
+2020-08-28 18:48:57,519 - service.py[line:214] - INFO: Epoch 40 Train_Loss 34.0714 
+2020-08-28 18:49:42,214 - service.py[line:206] - INFO: Epoch 41 Batch 0 Train_Loss 34.2929  eval_loss 34.5183
+2020-08-28 18:59:52,166 - service.py[line:206] - INFO: Epoch 41 Batch 1000 Train_Loss 34.0385  eval_loss 34.5259
+2020-08-28 19:10:01,023 - service.py[line:206] - INFO: Epoch 41 Batch 2000 Train_Loss 34.0465  eval_loss 34.5282
+2020-08-28 19:20:10,694 - service.py[line:206] - INFO: Epoch 41 Batch 3000 Train_Loss 34.0483  eval_loss 34.5331
+2020-08-28 19:30:19,213 - service.py[line:206] - INFO: Epoch 41 Batch 4000 Train_Loss 34.0536  eval_loss 34.5230
+2020-08-28 19:38:14,556 - service.py[line:214] - INFO: Epoch 41 Train_Loss 34.0590 
+2020-08-28 19:38:59,294 - service.py[line:206] - INFO: Epoch 42 Batch 0 Train_Loss 33.9921  eval_loss 34.5143
+2020-08-28 19:49:07,719 - service.py[line:206] - INFO: Epoch 42 Batch 1000 Train_Loss 33.9688  eval_loss 34.5534
+2020-08-28 19:59:16,892 - service.py[line:206] - INFO: Epoch 42 Batch 2000 Train_Loss 34.0027  eval_loss 34.5412
+2020-08-28 20:09:24,711 - service.py[line:206] - INFO: Epoch 42 Batch 3000 Train_Loss 34.0219  eval_loss 34.5270
