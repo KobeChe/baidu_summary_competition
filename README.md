@@ -1,0 +1,8 @@
+# baidu_summary_competition
+百度汽车大师问答与摘要比赛，由于错过了提交时间，训了10个epoches感觉效果还可以。
+效果存放在results.csv中
+数据处理在prprocess.py中
+模型在transformer_pointer_model_cross_attention中
+数据存放在data中
+base_transformer_model存放的是 不加attention_score dist的base——model
+transformer_pointer_model_cross_attention目录下的training_utils.py执行训练 predict_service.py执行推理
