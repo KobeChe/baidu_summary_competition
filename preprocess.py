@@ -15,6 +15,7 @@ import logging
 logging.basicConfig(level = logging.INFO,format = '%(asctime)s - %(name)s - %(levelname)s - %(message)s')
 logger = logging.getLogger(__name__)
 
+
 serilized_path = 'data/train_data/tfrecord/'
 all_data_path = '/home/chezhonghao/Projects/compatition/AutoMaster_TrainSet.csv'
 train_data_path='data/train_data/train_data.csv'
