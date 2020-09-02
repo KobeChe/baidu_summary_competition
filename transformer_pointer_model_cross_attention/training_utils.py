@@ -155,21 +155,21 @@ def train_model():
         train_loss_metric.reset_states()
         for batch, data in tqdm(enumerate(data_batch)):
             train_step(data,model,optimizer,loss_object,train_loss_metric)
-        # current_loss_eval = evaluate()
-        # logger.info('Epoch {}  Train_Loss {:.4f}  eval_loss {:.4f}'.format(
-        #     epoch + 1,  train_loss_metric.result(), current_loss_eval))
-        # if current_loss_eval < min_eval_loss:
-        #     min_eval_loss = current_loss_eval
-        #     # tf.saved_model.save(base_transformer_model, Config.saved_model_path)
-        #     ckpt_save_path = ckpt_manager.save()
-        #     base_transformer_model.save_weights('../transformer_saved_weights/')
-        # if train_loss_metric.result()<min_train_loss:
-        #     min_train_loss=train_loss_metric.result()
-        #     train_ckpt_save_path = ckpt_manager_train.save()
-        #     base_transformer_model.save_weights('../train_transformer_saved_weights/')
-    #     logger.info('Epoch {} Train_Loss {:.4f} '.format(epoch + 1,
-    #                                                      train_loss_metric.result(),
-    #                                                      ))
+        current_loss_eval = evaluate()
+        logger.info('Epoch {}  Train_Loss {:.4f}  eval_loss {:.4f}'.format(
+            epoch + 1,  train_loss_metric.result(), current_loss_eval))
+        if current_loss_eval < min_eval_loss:
+            min_eval_loss = current_loss_eval
+            # tf.saved_model.save(base_transformer_model, Config.saved_model_path)
+            ckpt_save_path = ckpt_manager.save()
+            model.save_weights('../transformer_saved_weights/')
+        if train_loss_metric.result()<min_train_loss:
+            min_train_loss=train_loss_metric.result()
+            train_ckpt_save_path = ckpt_manager_train.save()
+            model.save_weights('../train_transformer_saved_weights/')
+        logger.info('Epoch {} Train_Loss {:.4f} '.format(epoch + 1,
+                                                         train_loss_metric.result(),
+                                                         ))
 
 if __name__ == '__main__':
     train_model()
