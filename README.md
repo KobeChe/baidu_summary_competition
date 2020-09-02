@@ -6,5 +6,3 @@
 数据存放在data中
 base_transformer_model存放的是 不加attention_score dist的base——model
 transformer_pointer_model_cross_attention目录下的training_utils.py执行训练 predict_service.py执行推理
-
-
