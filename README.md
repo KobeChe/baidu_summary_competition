@@ -1,4 +1,4 @@
-# baidu_summary_competition
+#baidu_summary_competition
 百度汽车大师问答与摘要比赛，由于错过了提交时间，训了20个epoches感觉效果还可以。
 效果存放在results.csv中
 数据处理在prprocess.py中
